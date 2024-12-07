@@ -4,23 +4,6 @@ Come hangout on my! [Twitch](https://www.twitch.tv/vhaultyr) & Join the communit
 ## Bio
 I'm a [World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft) live streamer, that's currently playing on the new Hardcore 💀 1-Life Realm, [Doomhowl-NA](https://discord.gg/doomhowl)
 
-<div class="embed-container">
-  <iframe
-      src="https://twitch.tv/embed?vhaultyr&parent={{ include.domain }}"
-      width="700"
-      height="480"
-      frameborder="0"
-      scrolling="no"
-      allowfullscreen="true">
-  </iframe>
-</div>
-
-<iframe id="twitch-chat-embed"
-        src="https://www.twitch.tv/embed/vhaultyr/chat?parent=dev.twitch.tv"
-        height="500"
-        width="350">
-</iframe>
-
 ## My Socials
 ### DMs are always open, please feel free to msg me if you need anything at all 💜
 
