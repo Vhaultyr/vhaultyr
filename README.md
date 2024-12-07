@@ -1,31 +1,18 @@
+# Vhaultyr
+Come hangout on my! [Twitch](https://www.twitch.tv/vhaultyr) & Join the community! 
 
+## Bio
+I'm a [World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft) live streamer, that's currently playing on the new Hardcore 💀 1-Life Realm, [Doomhowl-NA](https://discord.gg/doomhowl)
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+## My Socials
+### DMs are always open, please feel free to msg me if you need anything at all 💜
 
-## Finish
-
-_Congratulations friend, you've completed this course!_
-
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
-
-Your blog is now live and has been deployed!
-
-Here's a recap of all the tasks you've accomplished in your repository:
-
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
-
-### What's next?
-
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
-
+| []() | |
+| ---                                                                                                             | ---                                                           |
+| ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) | [Vhaultyr](https://www.youtube.com/@vhaultyr)                 |
+|	![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) | [![](https://dcbadge.limes.pink/api/server/KeGMDVugsP)]([https://discord.gg/INVITE](https://discord.gg/KeGMDVugsP)) |
+| ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)    | [r/Vhaultyr](https://www.reddit.com/r/Vhaultyr/)     |
+| ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) | [Vhaultyr](https://www.instagram.com/vhaultyr/) |
+| ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white) | [vhaultyr](https://www.tiktok.com/@vhaultyr?lang=en)
+| ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white) | [Vhaultyr](https://x.com/Vhaultyr)
+| []() | |
